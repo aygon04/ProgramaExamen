@@ -1,0 +1,23 @@
+Cada quien propone una app para hacer, que use:
+ - Al menos una intencion explicita (10pts)//					YA	10	Con casi todo
+ - Al menos una intencion implicita (10pts)//					YA	10	MainActivity.kt ln:18 (Aqui no abrio sms pero gmail si)
+ - Al menos un tipo de menú (10pts)//						NO	-10	:c
+ - Toolbar en lugar de ActionBar (5pts)//					YA	5	conBasicActivity	
+ - Toast (5pts)//								YA	5	ComprarActivity.kt ln:25	
+ - Snackbar (10pts)//								YA	10	FirstFragment.kt ln:48
+ - RecyclerView (10pts)//							YA	10	Si se usa	
+ - Al menos un fragment (10pts)//						YA	10	FirstFragment
+ - Al menos un cuadro de dialogo (10pts)//					YA	10	MainActivity.kt ln:38	
+ - Al menos 5 diferentes widget "basicos" (20pts), por ejemplo:			YA	20	Casi todos en el firstfragment
+   * TextView
+   * EditText
+   * Button
+   * Checkbox
+   * RadioButton
+   * ImageView
+   * Spinner
+   * RatingBar
+   * ProgressBar
+   * etc.
+
+Lo deben hacer en un proyecto nuevo y me lo comparten por Github.
